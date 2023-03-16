@@ -1,0 +1,8 @@
+age;sex;bmi;children;smoker;northwest1;northwest3;southeast0;southeast1;southeast2;southeast3;southwest2;charges;
+19;0;27;0;yes;0;0;0;0;0;0;1;16884;
+18;1;33;1;no;0;0;0;0;1;0;0;1725;
+28;1;33;3;no;0;0;0;0;0;1;0;4449;
+33;1;22;0;no;1;0;0;0;0;0;0;21984;
+32;1;28;e;no;0;1;0;0;0;0;0;3866;
+31;0;25;e;no;0;0;0;1;0;0;0;3756;
+46;0;33;1;yes;0;0;1;0;0;0;0;8240;

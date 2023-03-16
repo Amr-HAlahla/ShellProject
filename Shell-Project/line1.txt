@@ -1,0 +1,10 @@
+age
+sex
+bmi
+children
+smoker
+northwest
+southeast
+southwest
+charges
+

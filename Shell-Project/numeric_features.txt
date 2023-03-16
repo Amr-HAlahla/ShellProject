@@ -1,0 +1,4 @@
+age
+bmi
+children
+charges

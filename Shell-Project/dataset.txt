@@ -1,0 +1,6 @@
+id;age;gender;height;weight;active;blood;smoke;governorate;
+1;20;male;171;55;yes;A+;no;Hebron;
+2;20;female;158;55;yes;A-;yes;Jenin;
+3;30;male;160;60;no;B+;no;Jerusalem;
+4;19;female;162;55;yes;AB+;no;Ramallah;
+5;13;female;142;37;no;O-;no;Jenin;
